@@ -1,0 +1,8 @@
+{
+  "order": 2,
+  "stack": ["ASP.NET Core", "PostgreSQL", "EF Core", "AutoMapper", "xUnit"],
+  "summary": {
+    "pt": "API REST de encurtamento de URL, feita como projeto acadêmico. Padrão Result para erros de domínio, repositórios separados por leitura e escrita, middleware global de exceção e suíte de testes em xUnit.",
+    "en": "REST API for URL shortening, built as an academic project. Result pattern for domain errors, read and write repositories kept separate, a global exception middleware, and an xUnit test suite."
+  }
+}
